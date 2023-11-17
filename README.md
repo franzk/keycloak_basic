@@ -3,7 +3,7 @@
 ## Installation
 - Clone this repo
 
-- In "run" folder
+- In ./run folder
   - $ bash install.sh
   - $ bash run.sh
 
