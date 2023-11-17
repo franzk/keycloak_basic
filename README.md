@@ -1,4 +1,4 @@
-# Jeycloak with Spring Boot simple example
+# Keycloak with Spring Boot simple example
 
 ## Installation
 In "run" folder
