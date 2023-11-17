@@ -1,6 +1,8 @@
 # Keycloak with Spring Boot simple example
 
 ## Installation
+- Clone this repo
+- 
 - In "run" folder
   - $ bash install.sh
   - $ bash run.sh
@@ -11,8 +13,6 @@
   - create a role (Realm roles >> create role)
   - create an user with this role. Don't forget to create a password in the Credentials Tab.
 
-- Clone this repo
-
-- Run the app
+- Run the Spring Boot app
 
 - check : http://localhost:8080/user
