@@ -7,7 +7,7 @@
   - $ bash install.sh
   - $ bash run.sh
 
-- Open the Keycloak Admin : http://localhost:8180/auth/admin/
+- Open the Keycloak Admin : http://localhost:8180/admin
   - create a Realm called franz
   - create a client called springboot-keycloak (Client type = OpenID Connect)
   - create a role (Realm roles >> create role)
